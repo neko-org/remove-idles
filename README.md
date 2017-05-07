@@ -8,4 +8,4 @@ Command is not case-sensitive. [slash](https://github.com/baldera-mods/slash) is
 
 ### Info:
 * Probably won't improve your fps or anything like that. 
-* Useful for classes with annoying idles (I'm looking at you noisy ninjas -_-)
+* Useful for classes/races with annoying idles (I'm looking at you noisy ninjas -_-)
