@@ -1,5 +1,5 @@
 # Remove Idles
-Prevents characters from playing their idle animations.
+Prevents players from playing their idle animations.
 
 ### Chat commands:
 * !RemoveIdles    - Toggles the module off/on
